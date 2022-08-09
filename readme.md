@@ -6,7 +6,7 @@
   <p>
     The <b>best</b> free ordering system on ROBLOX.
   </p>
-  <h3><a href="https://www.roblox.com/games/10017996092/FoodMate">Roblox Demo</a> ⚡ <a href="https://www.roblox.com/library/10537069371/FoodMate-V3">Toolbox Asset</a> ⚡ <a href="">Roblox Studio File</a> </h3>
+  <h3><a href="https://www.roblox.com/games/10017996092/FoodMate">Roblox Demo</a> ⚡ <a href="https://www.roblox.com/library/10537069371/FoodMate-V3">Toolbox Asset</a> ⚡ <a href="https://github.com/cmcdevelopments/FoodMateV3/releases/tag/Production">Roblox Studio File</a> </h3>
 </div>
 <br/>
 <small>⚠️ <b>FoodMate is a newly released tool</b> it hasn't had the chance to be put under extreme stress yet, it may not perform as expected. We're trying to make it fool proof and very user friendly, it's appreciated if you report all bugs you find.</small>
