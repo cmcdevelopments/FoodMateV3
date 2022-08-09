@@ -8,7 +8,6 @@
 <br/>
 <small>⚠️ <b>FoodMate is a newly released tool</b> it hasn't had the chance to be put under extreme stress yet, it may not perform as expected. We're trying to make it fool proof and very user friendly, it's appreciated if you report all bugs you find.</small>
 </div>
-<br/>
 <div align="left">
   <h2>🤔 Suggestions</h2>
   <p>
