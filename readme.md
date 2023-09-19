@@ -1,6 +1,6 @@
 <div align="center">
 <img width=50% src='https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/6/e/5/6e570c934d65c42591299255f20a76a33ba4cdc4.png'/>
-  <h2>Foodmate is shelfed and no longer under maintainance.</h2>
+  <h2>Foodmate is shelved and no longer under maintainance.</h2>
 <h1>⭐  The best free <a href="https://www.roblox.com/games/10017996092/FoodMate">ordering system<a/> on ROBLOX. </h1>
 <h4/> Welcome to the ordering system specially made for you.</h4>
 <h3><a href="https://www.roblox.com/games/10017996092/FoodMate">Roblox Demo</a> ⚡ <a href="https://www.roblox.com/library/10537069371/FoodMate-V3">Toolbox Asset</a> ⚡ <a href="https://github.com/cmcdevelopments/FoodMateV3/releases/tag/Production">Roblox Studio File</a> </h3>
